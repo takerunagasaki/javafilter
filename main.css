@@ -1,0 +1,20 @@
+ul{
+  list-style:none;
+  
+}
+li{
+  vertical-align: top;  display:inline-block;
+  margin-left:20px;
+  margin-top:20px;
+  width:400px;
+}
+img {
+  width:100%;
+}
+.inputC{
+  margin-left:20px;
+}
+.ContentsHide{
+  display:none;
+}
+
